@@ -1,2 +1,6 @@
 # inteligencia-artificial
-Repositório referente aos trabalhos realizados na disciplina de Inteligência Artificial do 1º bimestre
+Curso: Ciência da Computação
+Disciplina: Inteligência Artificial
+Nome: Igor Pereira dos Santos
+RA: 2017207645
+Periodo: 5º Periodo
