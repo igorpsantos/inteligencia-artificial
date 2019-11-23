@@ -56,8 +56,5 @@ moeda_diferente([X | L], Pos, valor):-
     encontra_diferente([X | L]),
     encontra_igual([X | L]),
     encontraind(Pos, [X | L], Z):- Pos == Z,
-    maior(Z
-    
-    
-    
-    
+    maior(X, [H | L], maior),
+    menor(X, [H | L], menor).
