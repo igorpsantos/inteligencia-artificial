@@ -2,7 +2,7 @@
 % caso base, se for vazio o retorno é vazio
 % se tem uma lista com Head e Tail, então
 % filtra os elementos de acordo com o predicado
-% pega os elementos que são repetidos e inseri na lista Z
+% pega os elementos que são repetidos e insere na lista Z
 elem_repetidos([],[]). 
 elem_repetidos([X|Y], Result) :- 
    partition(=(X),Y,Es,Xs), 
